@@ -1,0 +1,106 @@
+{
+  "main": {
+    "name": "Madhur Maheshwari",
+    "occupation": "Systems Engineer at Infosys Limited",
+    "description": "Full Stack React Developer",
+    "image": "WhatsApp Image 2020-09-16 at 2.27.03 AM.jpeg",
+    "bio": "My name is Madhur, I'm a Full Stack ReactJS and Angular Developer.I am an athlete at heart, with an entrepreneurial spirit, a knack for online security, and a passion for coding, I pursued my first development job to kick off my career. I was hired as a Systems Engineer by Infosys Limited , where I still work today. Since beginning my career there, I have been given the opportunity to shift into a ReactJs developer for the company. I am currently working towards making the app clones while working as a full stack developer.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "Madhurmaheshwari32@gmail.com",
+    "phone": "+91 8770312056",
+    "address": {
+      "street": "Mohta plot,Tilak ward",
+      "city": "Pipariya",
+      "state": "Madhya Pradesh",
+      "zip": "461775"
+    },
+    "website": "http://www.madhurmaheshwari.com",
+    "resumedownload": "https://www.linkedin.com/in/madhur-maheshwari-18995a167/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/madhur.maheshwari.94043",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/madhur-maheshwari-18995a167/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/madhur974/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/Madhur431997",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Full stack developer with an experience of working in react js as well as angular.",
+    "education": [
+      {
+        "school": "Ips Academy",
+        "degree": "Bachelor of Engineering",
+        "graduated": "April 2019",
+        "description": "Graduated with Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Infosys Limited",
+        "title": "Systems Engineer",
+        "years": "Sept 2019 - Present",
+        "description": "Works in full stack development."
+      }
+    
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "node js",
+        "level": "60%"
+      },
+      {
+        "name": "Angular",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+    
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+     
+      {
+        "text": "Madhur Maheshwari is one of the most brilliant developers I've ever met! Hey you, you should hire this guy, he may be fresh out of University and have a year on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "xyz"
+      }
+    ]
+  }
+}
